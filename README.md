@@ -1,7 +1,5 @@
 # monitor-core
-Core for scrapes monitors
 
+Core For RU Monitors
 
-**Scrapes Services:** https://discord.gg/g2pX9nvg6a
-
-#1 Discord Deal Monitors Out There!
+Star for vbucks!!
