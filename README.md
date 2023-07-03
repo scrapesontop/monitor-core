@@ -1,5 +1,3 @@
 # monitor-core
 
-Core For RU Monitors
-
-Star for vbucks!!
+core package for ru monitors
